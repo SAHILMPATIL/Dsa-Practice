@@ -1,0 +1,38 @@
+Time Complexity And SPace complexity  these play an important role on how efficient the algorithm or code gonna work  
+
+Firstly Time Complexity  it is the amount of time taken as function of input size (n) considering all the operations .
+It is Reprsented In BIG O notation  because it calculates the worst case complexity and Upper bound Ccomplexity rather than using Theta notation ( average Complexity)  and Omega Notation( Lower bound Complexity)
+
+Three rules to be generally followed 
+ 1. Always compute the worst case scenario 
+ 2. Avoid Constants or Considered them as 1
+ 3. Avoid lower values (for example in this " n^5+n^2+1 " in this u can ignore "l") 
+
+This is generalized graph for Time Complexity 
+
+https://adrianmejia.com/images/time-complexity-examples.png
+
+Secondly Space Complexity is  the amount of memory an algorithm or data structure needs to solve a problem, as a function of the input size. 
+It is also  represented in BIG O Notation
+Space complexity = Auxillary space ( Space that we take to code ) + Input space ( Space that is used to the Input )
+
+For consider (C=A+B ) as an space complexity 
+  C represnts the auxillary space 
+  A,B Represnts the Input Space 
+
+Important note Is: Never do Data Manipulation in space complexity to reduce the space acquired 
+
+Graph is similar to that of time complexity 
+
+https://cdn.botpenguin.com/assets/website/Space_Complexity_155761920b.webp
+
+
+Checkout these links for the better Understanding 
+ https://www.youtube.com/watch?v=PwKv8fOcriM   (Hindi)
+
+https://www.youtube.com/watch?v=pULw1Fpru0E   from 6:49 Time complexity ( english)
+https://www.youtube.com/watch?v=oQ5sAfT_3V4   from 2:55 Space complexity ( english)
+
+ 
+
+
